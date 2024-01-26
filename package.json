@@ -1,8 +1,15 @@
 {
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "openai": "^4.26.0"
   },
   "overrides": {
     "whatwg-url": "13.0.0"
+  },
+  "devDependencies": {
+    "lambda-tester": "^4.0.1",
+    "mocha": "^10.2.0"
   }
 }
