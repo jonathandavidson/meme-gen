@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "start": "node run.js",
     "test": "jest test/**.spec.mjs"
   },
   "dependencies": {
